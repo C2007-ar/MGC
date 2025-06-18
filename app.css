@@ -10,7 +10,7 @@ body {
     line-height: 1.6;
 }
 header {
-    background: #1a237e;
+    background-image: url(logo2.png);
     color: white;
     padding: 2rem 1rem;
     text-align: center;
@@ -41,7 +41,7 @@ nav a {
 }
 main {
     padding: 2rem;
-    background-image: url(logo1.png);
+    background-image: url(logo4.png);
     background-size: cover;
     background-position: center;
     color: rgb(235, 238, 243);
