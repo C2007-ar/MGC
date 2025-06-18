@@ -14,6 +14,8 @@ header {
     color: white;
     padding: 2rem 1rem;
     text-align: center;
+    background-size: cover;
+    background-position: center;
 }
 header .logo {
     width: 100px;
